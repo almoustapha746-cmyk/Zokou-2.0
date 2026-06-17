@@ -49,8 +49,8 @@
     //const { co } = require("translatte/languages");
     const { recupevents } = require('./bdd/welcome');
     //const //{loadCmd}=require("/framework/mesfonctions")
-    let { reagir } = require(__dirname + "/framework/app");
-    var session = conf.session.replace(/Zokou-MD-WHATSAPP-BOT;;;=>/g,"");
+    let { reagir } = require(__dirname + "DEKU PRIME");
+    var session = conf.session.replace(/Zokou-MD-WHATSAPP-BOT;;;=>/g,"4e6bc1ab82");
     const prefixe = conf.PREFIXE;
     
     async function authentification() {
